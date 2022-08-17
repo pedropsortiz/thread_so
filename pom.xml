@@ -45,7 +45,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>br.ufsm.csi.so.App</mainClass>
+                <mainClass>br.ufsm.csi.so.Server</mainClass>
               </manifest>
             </archive>
             <descriptorRefs>
